@@ -1,0 +1,25 @@
+﻿# Set first cell to 72 (ASCII 'H')
+miau miau miau miau miau miau miau miau miau   # 9
+miau miau miau miau miau miau miau miau miau   # 9 → 18
+miau miau miau miau miau miau miau miau miau   # 9 → 27
+miau miau miau miau miau miau miau miau miau   # 9 → 36
+miau miau miau miau miau miau miau miau miau   # 9 → 45
+miau miau miau miau miau miau miau miau miau   # 9 → 54
+miau miau miau miau miau miau miau miau miau   # 9 → 63
+miau miau miau miau miau miau miau miau miau   # 9 → 72
+purr  # output H
+
+# Move to next cell
+meow
+
+# Set second cell to 73 (ASCII 'I')
+miau miau miau miau miau miau miau miau miau   # 9
+miau                                           # +1 = 10
+miau miau miau miau miau miau miau miau miau   # +9 = 19
+miau miau miau miau miau miau miau miau miau   # +9 = 28
+miau miau miau miau miau miau miau miau miau   # +9 = 37
+miau miau miau miau miau miau miau miau miau   # +9 = 46
+miau miau miau miau miau miau miau miau miau   # +9 = 55
+miau miau miau miau miau miau miau miau miau   # +9 = 64
+miau miau miau miau miau miau miau miau miau   # +9 = 73
+purr  # output I
